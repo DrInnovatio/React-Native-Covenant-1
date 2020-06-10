@@ -13,7 +13,7 @@ const CounterScreen = () => {
           // counter++;
           setCounter(counter + 1);
         } } />
-        
+
       <Button
         title="Decrease"
         onPress={ () => {
